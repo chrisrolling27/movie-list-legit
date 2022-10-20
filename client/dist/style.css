@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif, arial;
+  margin-left: 15%;
+  margin-top: 15%;
+
+}
+
+.mlisters {
+  font-size: large;
+  margin: 2%;
+}
+
+.watchButton {
+ color:blue;
+ margin-top:2%;
+}
+
+.watchNotButton {
+  color:rgb(255, 30, 0);
+  margin-top:2%;
+ }
+
+.greenAddButton {
+  margin:1%;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
+
+
+ul {
+  border: 1px solid black;
+  padding-right: 0px;
+  padding-left: 15px;
+
+  border-radius: 5px;
+  white-space: pre-wrap;
+}
